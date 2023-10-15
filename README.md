@@ -30,3 +30,12 @@ Control de relog de tiempo real
 Notas musicas
 
 Control de Lcd, normal y por I2C 
+
+ADC POR SPI
+
+
+## ESP32
+
+*LCD
+
+*OSCILOSCOPIO(LEE SEÑALES ANALOGICAS Y LAS REPRODUCE EN LA COMPUTADORA CON FILTRO)
