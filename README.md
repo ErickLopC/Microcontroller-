@@ -33,6 +33,7 @@ Control de Lcd, normal y por I2C
 
 ADC POR SPI
 
+Control de motor paso a paso(con precision implementada)
 
 ## ESP32
 
