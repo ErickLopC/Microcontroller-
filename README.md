@@ -23,3 +23,10 @@
 
 **10.**  Manejo de un dispositivo con Interfaz **SPI**
    RTC, MATRIZ DE 8X8
+
+
+Control de relog de tiempo real 
+
+Notas musicas
+
+Control de Lcd, normal y por I2C 
